@@ -1,6 +1,27 @@
 # OrderBridge for WooCommerce
 
 OrderBridge is a portfolio-grade WooCommerce integration demonstrating reliable order synchronization with an external ERP or fulfillment API.
+## Portfolio Case Study
+
+### 1. Project Overview
+
+![OrderBridge WooCommerce API integration](docs/01-orderbridge-case-study.png)
+
+### 2. Business Problem
+
+![OrderBridge business problem and solution](docs/02-orderbridge-case-study.png)
+
+### 3. Integration Architecture
+
+![OrderBridge bidirectional integration architecture](docs/03-orderbridge-case-study.png)
+
+### 4. Reliability and Security
+
+![OrderBridge reliability and security controls](docs/04-orderbridge-case-study.png)
+
+### 5. Engineering Evidence
+
+![OrderBridge engineering evidence](docs/05-orderbridge-case-study.png)
 
 ## Features
 
